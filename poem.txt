@@ -8,5 +8,6 @@ blue
 green
 unicorn
 red
+indigo
 colors of the rainbow :)
 and the unicorn...
